@@ -37,7 +37,7 @@ Your submission:
 
 
                                                 Ballpit 2.2
-ESCRIPTION
+DESCRIPTION
 🔴 Track 2.2 - Count challenge
 You receive:
 •	The denoised image from Track 2.1.
